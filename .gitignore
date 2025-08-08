@@ -1,0 +1,3 @@
+# Ignore all travel.exe and reciept.txt files anywhere
+**/travel.exe
+**/reciept.txt
